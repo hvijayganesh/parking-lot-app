@@ -1,0 +1,7 @@
+create_parking_lot MyParkingLot mall 2
+park motorcyle
+park scooter 11-Dec-2022,11:00:00
+park motorcyle
+unpark scooter 2
+park motorcyle
+unpark motorcyle 1

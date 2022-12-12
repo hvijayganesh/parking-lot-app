@@ -1,0 +1,21 @@
+{
+  "name": "parking-lot-app",
+  "version": "1.0.0",
+  "description": "App that manages tickets for a parking lot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Running tests...\" && ./node_modules/mocha/bin/mocha --recursive ./tests/**/*.test.js"
+  },
+  "author": "Vijay Ganesh",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^6.0.2",
+    "timekeeper": "^2.2.0"
+  },
+  "dependencies": {
+    "moment": "^2.29.4",
+    "sinon": "^7.5.0",
+    "uuid": "^9.0.0"
+  }
+}

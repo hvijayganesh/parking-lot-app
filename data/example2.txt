@@ -1,0 +1,7 @@
+create_parking_lot MyParkingLot mall 100 80 10
+park motorcyle 11-Dec-2022,17:25:00
+park car 11-Dec-2022,10:54:00
+park Truck 11-Dec-2022,14:57:00
+unpark motorcyle 1
+unpark car 2
+unpark truck 3

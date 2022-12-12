@@ -1,0 +1,9 @@
+create_parking_lot MyParkingLot stadium 1000 1500
+park motorcyle 11-Dec-2022,12:45:00
+park motorcyle 11-Dec-2022,01:36:00
+park suv 11-Dec-2022,05:22:00
+park suv 11-Dec-2022,03:35:00
+unpark motorcyle 1
+unpark motorcyle 2
+unpark suv 3
+unpark suv 4
