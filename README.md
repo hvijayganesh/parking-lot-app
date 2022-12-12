@@ -26,9 +26,11 @@ park motorcyle
 unpark motorcyle 1
 ```
 
-### Parking Lot Commands explained
 - Each line in the file should have only one command along with its args
 - All the arguments should be separated by spaces
+
+### Parking Lot Commands explained
+
 
 `create_parking_lot` - creates the parking lot with name, feemodel and number of spots for different vehicles
 ```
